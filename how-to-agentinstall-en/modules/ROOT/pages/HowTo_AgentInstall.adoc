@@ -1,7 +1,7 @@
 // The imagesdir attribute is only needed to display images during offline editing. Antora neglects the attribute.
 :imagesdir: ../images
 :description: Agent Installation How-to (English)
-:revnumber: v5.8
+:revnumber: v5.9
 :revdate: 01.01.2018
 
 = How To Guide Console Installation of an IKAN ALM Agent
